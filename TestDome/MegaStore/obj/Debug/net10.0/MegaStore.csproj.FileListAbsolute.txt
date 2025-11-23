@@ -1,0 +1,15 @@
+/Users/macek/Programs/RiderProjects/Exercise/TestDome/MegaStore/bin/Debug/net10.0/MegaStore
+/Users/macek/Programs/RiderProjects/Exercise/TestDome/MegaStore/bin/Debug/net10.0/MegaStore.deps.json
+/Users/macek/Programs/RiderProjects/Exercise/TestDome/MegaStore/bin/Debug/net10.0/MegaStore.runtimeconfig.json
+/Users/macek/Programs/RiderProjects/Exercise/TestDome/MegaStore/bin/Debug/net10.0/MegaStore.dll
+/Users/macek/Programs/RiderProjects/Exercise/TestDome/MegaStore/bin/Debug/net10.0/MegaStore.pdb
+/Users/macek/Programs/RiderProjects/Exercise/TestDome/MegaStore/obj/Debug/net10.0/MegaStore.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macek/Programs/RiderProjects/Exercise/TestDome/MegaStore/obj/Debug/net10.0/MegaStore.AssemblyInfoInputs.cache
+/Users/macek/Programs/RiderProjects/Exercise/TestDome/MegaStore/obj/Debug/net10.0/MegaStore.AssemblyInfo.cs
+/Users/macek/Programs/RiderProjects/Exercise/TestDome/MegaStore/obj/Debug/net10.0/MegaStore.csproj.CoreCompileInputs.cache
+/Users/macek/Programs/RiderProjects/Exercise/TestDome/MegaStore/obj/Debug/net10.0/MegaStore.sourcelink.json
+/Users/macek/Programs/RiderProjects/Exercise/TestDome/MegaStore/obj/Debug/net10.0/MegaStore.dll
+/Users/macek/Programs/RiderProjects/Exercise/TestDome/MegaStore/obj/Debug/net10.0/refint/MegaStore.dll
+/Users/macek/Programs/RiderProjects/Exercise/TestDome/MegaStore/obj/Debug/net10.0/MegaStore.pdb
+/Users/macek/Programs/RiderProjects/Exercise/TestDome/MegaStore/obj/Debug/net10.0/MegaStore.genruntimeconfig.cache
+/Users/macek/Programs/RiderProjects/Exercise/TestDome/MegaStore/obj/Debug/net10.0/ref/MegaStore.dll
