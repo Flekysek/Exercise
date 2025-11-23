@@ -1,0 +1,15 @@
+/Users/macek/Programs/RiderProjects/Exercise/TestDome/Song/obj/Debug/net10.0/Song.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macek/Programs/RiderProjects/Exercise/TestDome/Song/obj/Debug/net10.0/Song.AssemblyInfoInputs.cache
+/Users/macek/Programs/RiderProjects/Exercise/TestDome/Song/obj/Debug/net10.0/Song.AssemblyInfo.cs
+/Users/macek/Programs/RiderProjects/Exercise/TestDome/Song/obj/Debug/net10.0/Song.csproj.CoreCompileInputs.cache
+/Users/macek/Programs/RiderProjects/Exercise/TestDome/Song/obj/Debug/net10.0/Song.sourcelink.json
+/Users/macek/Programs/RiderProjects/Exercise/TestDome/Song/bin/Debug/net10.0/Song
+/Users/macek/Programs/RiderProjects/Exercise/TestDome/Song/bin/Debug/net10.0/Song.deps.json
+/Users/macek/Programs/RiderProjects/Exercise/TestDome/Song/bin/Debug/net10.0/Song.runtimeconfig.json
+/Users/macek/Programs/RiderProjects/Exercise/TestDome/Song/bin/Debug/net10.0/Song.dll
+/Users/macek/Programs/RiderProjects/Exercise/TestDome/Song/bin/Debug/net10.0/Song.pdb
+/Users/macek/Programs/RiderProjects/Exercise/TestDome/Song/obj/Debug/net10.0/Song.dll
+/Users/macek/Programs/RiderProjects/Exercise/TestDome/Song/obj/Debug/net10.0/refint/Song.dll
+/Users/macek/Programs/RiderProjects/Exercise/TestDome/Song/obj/Debug/net10.0/Song.pdb
+/Users/macek/Programs/RiderProjects/Exercise/TestDome/Song/obj/Debug/net10.0/Song.genruntimeconfig.cache
+/Users/macek/Programs/RiderProjects/Exercise/TestDome/Song/obj/Debug/net10.0/ref/Song.dll
