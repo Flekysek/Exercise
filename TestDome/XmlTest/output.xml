@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<NixZdDocument>
+  <Version>1.0</Version>
+  <Created>2026-03-15T18:50:55.5515730Z</Created>
+  <Records>
+    <Record>
+      <Id>0</Id>
+      <Name>Direct sample</Name>
+      <Value>3.14</Value>
+      <Timestamp>2025-03-15T10:00:00.0000000Z</Timestamp>
+    </Record>
+    <Record>
+      <Id>1</Id>
+      <Name>Temperature</Name>
+      <Value>22.5</Value>
+      <Timestamp>2025-03-15T09:30:00.0000000Z</Timestamp>
+    </Record>
+    <Record>
+      <Id>2</Id>
+      <Name>Pressure</Name>
+      <Value>1013.25</Value>
+      <Timestamp>2025-03-15T09:45:00.0000000Z</Timestamp>
+    </Record>
+  </Records>
+</NixZdDocument>
