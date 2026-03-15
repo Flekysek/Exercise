@@ -1,0 +1,34 @@
+# Build results
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+*.dll
+*.pdb
+*.exe
+
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userprefs
+*.sln.docstates
+*.DotSettings.user
+
+# Rider
+.idea/
+
+# NuGet (build/restore artifacts)
+packages/
+*.nuget.cache
+**/project.assets.json
+**/project.nuget.cache
+**/project.packagespec.json
+**/rider.project.model.nuget.info
+**/rider.project.restore.info
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
